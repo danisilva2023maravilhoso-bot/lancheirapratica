@@ -10,7 +10,6 @@ import ShoppingList from './pages/ShoppingList.jsx';
 import NutriDanielle from './pages/NutriDanielle.jsx';
 import Organize from './pages/Organize.jsx';
 import Profile from './pages/Profile.jsx';
-import Checkout from './pages/Checkout.jsx';
 import Header from './components/common/Header.jsx';
 
 const ProtectedRoute = ({ children }) => {
