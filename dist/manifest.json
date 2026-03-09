@@ -1,0 +1,17 @@
+{
+    "name": "Lancheira Prática",
+    "short_name": "Lancheira",
+    "description": "Organize lancheiras infantis com receitas da Nutri Danielle.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#FF9ECF",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/561/561611.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
